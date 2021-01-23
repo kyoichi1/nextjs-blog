@@ -13,7 +13,7 @@ export default function Home ({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[kyoichi]</p>
-        <p>くまもといます</p>
+        <p>I am just a beginner who has just started studying programming.(＊´▿`＊)</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
